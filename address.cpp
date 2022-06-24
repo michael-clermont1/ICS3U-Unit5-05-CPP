@@ -2,7 +2,7 @@
 //
 // Created by: Michael Clermont
 // Created on: Feb 2022
-// This program is a guessing game
+// This program shows address
 
 #include <iostream>
 #include <string>
@@ -27,7 +27,7 @@ std::string FullAddress(
 }
 
 int main() {
-    // this function is a guessing game
+    // gets a users name and prints out their formal name
     std::string fullName;
     std::string streetNumber;
     std::string streetName;
